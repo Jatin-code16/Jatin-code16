@@ -85,7 +85,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Projects%20%26%20Demos-22c55e?style=for-the-badge&logo=googleportfolio&logoColor=white)](https://jatin-code16.github.io/myportfolio/)
+![Portfolio](https://img.shields.io/badge/My%20Portfolio-Projects%20%26%20Demos-22c55e?style=for-the-badge&logo=googleportfolio&logoColor=white)
 
 
 </div>
@@ -125,7 +125,7 @@
 </table>
 
 <div align="center">
-  <a href="https://jatin-code16.github.io/portfolio">
+  <a href="https://jatin-code16.github.io/myportfolio/">
     <img src="https://img.shields.io/badge/View%20Complete%20Portfolio-3584E4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Portfolio"/>
   </a>
 </div>

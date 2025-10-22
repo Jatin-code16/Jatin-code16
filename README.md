@@ -126,7 +126,7 @@
 </table>
 
 <div align="center">
-  <a href="https://jatin-code16.github.io/myportfolio/">
+  <a href="https://jatin-naik-portfolio.azurewebsites.net/">
     <img src="https://img.shields.io/badge/View%20Complete%20Portfolio-3584E4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Portfolio"/>
   </a>
 </div>

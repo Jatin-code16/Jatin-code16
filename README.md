@@ -8,6 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-jatinnaiknawa2%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jatinnaiknawa2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jatin--naik16-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jatin-naik16)
 [![GitHub](https://img.shields.io/badge/GitHub-Jatin--code16-black?style=for-the-badge&logo=github)](https://github.com/Jatin-code16)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Jatin--Naik-blue?style=for-the-badge&logo=portfolio)](https://jatin-naik-portfolio.azurewebsites.net/)
 
 </div>
 
